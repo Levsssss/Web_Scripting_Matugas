@@ -1,0 +1,3 @@
+Full Name|Email|Username|Password|Gender|Hobbies|Country
+Nicks|Nicks@gmail.com|Nicks05|05Nicks|Male|Gaming, Sports|Philippines
+Lev|levronmatugas@gmail.com|Levss|0101|Male|Gaming, Sports|Philippines
